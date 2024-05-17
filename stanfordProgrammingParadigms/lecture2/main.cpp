@@ -9,3 +9,5 @@ int main()
     cout << "Sum: " << c << endl;
     return 0;
 }
+
+// couldnt code today, so adding this comment
